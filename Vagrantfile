@@ -1,5 +1,5 @@
-proxy_ip  = "192.168.0.30"
-backend_ip  = "192.168.0.31"
+proxy_ip  = "192.168.0.3"
+backend_ip  = "192.168.0.40"
 
 proxy_script = 
 "
